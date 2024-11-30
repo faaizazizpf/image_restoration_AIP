@@ -1,0 +1,9 @@
+PyYAML
+scipy
+tensorboardX
+timm
+torch
+torchsummaryX
+torchvision
+tqdm
+gradio
